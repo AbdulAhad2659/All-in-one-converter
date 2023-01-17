@@ -1,2 +1,2 @@
 # All in  one converter
- This all in one converter has all the tools for files and video conversion in one handy location.
+ The one stop location for all video and document files conversion.
